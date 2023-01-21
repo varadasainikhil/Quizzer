@@ -166,7 +166,5 @@ class QuizQuestionsActivity : AppCompatActivity(), View.OnClickListener {
             }
         }
     }
-    fun getScore():Int{
-        return score
-    }
+
 }
